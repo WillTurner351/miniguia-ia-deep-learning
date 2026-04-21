@@ -20,7 +20,9 @@ https://www.ibm.com/topics/artificial-intelligence
 https://www.ibm.com/topics/deep-learning
 https://towardsdatascience.com/
 https://arxiv.org/
+
 🧠 Engenharia de Prompts e "Cicatrizes"
+
 🔹 Prompt 1:
 
 “Explique o que é Deep Learning de forma simples”
