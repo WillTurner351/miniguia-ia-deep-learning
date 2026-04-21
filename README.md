@@ -82,8 +82,8 @@ Vendas: recomendação de produtos personalizados
 Atendimento: chatbots inteligentes
 Tecnologia: análise de dados e automação
 Marketing: segmentação de clientes
-🧑‍💻 Autor
 
+🧑‍💻 Autor:
 Willams Ferreira
 Formado em Gestão da Tecnologia da Informação
-Estudante de Desenvolvimento Fullstack
+Estudante de Desenvolvimento Fullstack.
